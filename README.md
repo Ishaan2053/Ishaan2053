@@ -11,7 +11,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="30px" height="30px"> My Socials:
+### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
 <div id="badges>
   <a href="https://www.linkedin.com/in/ishaan2053 width="15px">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,7 +23,7 @@
 
 ---
                                                                                                        
-### 🧰 My tools of Trade:                                             
+### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">My tools of Trade:                                             
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
