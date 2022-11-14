@@ -1,15 +1,19 @@
-### :sparkles: About Me:
+<h1> Hello There
+  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px">
+</h1>
+  
+### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
 - 👀 I’m interested in becoming a full-stack web developer
-- 🌱 I’m currently learning front end libraries (HTML, CSS, JS)
+- 🌱 I’m currently learning front end libraries
 - ⏩ I’m looking to collaborate on Front end prjoects and full-stack projects in the future.
 - 📧 How to reach me: Find me on Twitter at https://Twitter.com/@Ishaan2053 or e-mail at <i>ishaan2053@gmail.com</i>
 <img src="https://komarev.com/ghpvc/?username=Ishaan2053&style=flat-square&color=blue" alt="View count" align="center">
 
 ---
 
-### 🌐 My Socials:
+### <img src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="30px" height="30px"> My Socials:
 <div id="badges>
-  <a href="https://www.linkedin.com/in/ishaan2053">
+  <a href="https://www.linkedin.com/in/ishaan2053 width="15px">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>                                                                                                                           
   <a href="https://Twitter.com/@Ishaan2053">
@@ -30,7 +34,7 @@
 
 ---
                                                                                                                                                         
-### :fire: My Stats :
+### <img src="https://media.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif" width="20px"> My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=tokyonight&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD)](https://git.io/streak-stats)
 ---
                                                                                                        
