@@ -23,20 +23,20 @@
 
 ---
                                                                                                        
-### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">My tools of Trade:                                             
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-</div>                                                                                                       
+### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">Tools of My Trade:                                             
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)         
 
+                                                                                             
 ---
                                                                                                                                                         
 ### <img src="https://media.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif" width="20px"> My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=tokyonight&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD)](https://git.io/streak-stats)
----
+
                                                                                                        
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -46,6 +46,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=tokyonight&hide_border=true&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)   
 
 ---
+
 ### My Repositories:
 
 <a href="https://github.com/Ishaan2053/FCC-Data-Visualization-Certification-Projects">
