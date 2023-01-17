@@ -43,7 +43,7 @@
 ---
 ### Linguistics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=tokyonight&hide_border=true&card_width=300px)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
 
 ---
 
