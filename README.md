@@ -40,4 +40,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)                                                                                             
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
+
+---
+### My Repositories:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ishaan2053&repo=[FCC-Responsive-Web-Design-Certification-Projects])](https://github.com/Ishaan2053/FCC-Responsive-Web-Design-Certification-Projects)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ishaan2053&repo=MovieFind-Movie-Recommender-System)](https://github.com/Ishaan2053/MovieFind-Movie-Recommender-System)
