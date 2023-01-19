@@ -3,10 +3,11 @@
 </h1>
   
 ### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
-- 👀 I’m interested in becoming a full-stack web developer
-- 🌱 I’m currently learning front end libraries
-- ⏩ I’m looking to collaborate on Front end prjoects and full-stack projects in the future.
-- 📧 How to reach me: Find me on Twitter at [@Twitter/Ishaan2053](https://Twitter.com/@Ishaan2053) or [E-mail me here](ishaan2053@gmail.com)
+- 🔥 Swimming the depths of Front-End!
+- 🎯 Aiming at being the jack of all web trades, a Full-Stack dev!
+- 📝 Avid, enthusiastic writer in both creative and technical field.
+- 🤤 Loves correcting documentations... and videogames ofcourse!
+- 📧 To reach me, find me on Twitter at [@Twitter/Ishaan2053](https://Twitter.com/@Ishaan2053) or [E-mail me here](ishaan2053@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=Ishaan2053&style=flat-square&color=blue" alt="View count" align="center">
 
 ---
@@ -35,15 +36,20 @@
 ---
                                                                                                                                                         
 ### <img src="https://media.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif" width="20px"> My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=tokyonight&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD)](https://git.io/streak-stats)
 
-                                                                                                       
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=tokyonight&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+</a>
 
 ---
+
 ### Linguistics:
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=tokyonight&hide_border=true&card_width=1000px&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)   
 
 ---
 
