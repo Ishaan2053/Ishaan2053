@@ -38,21 +38,21 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=tokyonight&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD)](https://git.io/streak-stats)
 
                                                                                                        
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Linguistics:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
 
 ---
 
 ### My Repositories:
 
 <a href="https://github.com/Ishaan2053/FCC-Data-Visualization-Certification-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ishaan2053&repo=FCC-Data-Visualization-Certification-Projects&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ishaan2053&repo=FCC-Data-Visualization-Certification-Projects&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/Ishaan2053/MovieFind-Movie-Recommender-System">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Ishaan2053&repo=MovieFind-Movie-Recommender-System&theme=tokyonight&hide_border=true" />
+  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ishaan2053&repo=MovieFind-Movie-Recommender-System&theme=tokyonight&hide_border=true" />
 </a>
