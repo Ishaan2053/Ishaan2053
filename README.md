@@ -42,7 +42,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
 ---
