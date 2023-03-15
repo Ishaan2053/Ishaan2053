@@ -8,7 +8,6 @@
 - 📝 Avid, enthusiastic writer in both creative and technical field.
 - 🤤 Loves correcting documentations... and videogames ofcourse!
 - 📧 To reach me, find me on Twitter at [@Twitter/Ishaan2053](https://Twitter.com/@Ishaan2053) or [E-mail me here](ishaan2053@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=Ishaan2053&style=flat-square&color=blue" alt="View count" align="center">
 
 ---
 
@@ -52,12 +51,7 @@
 
 ---
 
-### My Repositories:
+## My 'Writer's Corner':
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
-<a href="https://github.com/Ishaan2053/FCC-Data-Visualization-Certification-Projects">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ishaan2053&repo=FCC-Data-Visualization-Certification-Projects&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/Ishaan2053/MovieFind-Movie-Recommender-System">
-  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ishaan2053&repo=MovieFind-Movie-Recommender-System&theme=transparent&hide_border=true" />
-</a>
