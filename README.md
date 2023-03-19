@@ -7,7 +7,7 @@
 - 🎯 Aiming at being the jack of all web trades, a Full-Stack dev!
 - 📝 Avid, enthusiastic writer in both creative and technical field.
 - 🤤 Loves correcting documentations... and videogames ofcourse!
-- 📧 To reach me, find me on Twitter at [@Twitter/Ishaan2053](https://Twitter.com/@Ishaan2053) or [E-mail me here](ishaan2053@gmail.com)
+- 📧 To reach me, find me on Twitter at [@Twitter/Ishaan2053](https://Twitter.com/@Ishaan2053) or E-mail me [here](ishaan2053@gmail.com)
 
 ---
 
