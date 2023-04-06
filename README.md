@@ -53,6 +53,7 @@
 
 ## My 'Writer's Corner':
 <!-- HASHNODE:START -->
+- [Layman&#39;s Guide to Documenting Your Next Big Project](https://ishaan2053.hashnode.dev/laymans-guide-to-documenting-your-next-big-project)
 - [Introduction to Bootstrap: Stepping up from Custom CSS](https://ishaan2053.hashnode.dev/introduction-to-bootstrap-stepping-up-from-custom-css)
 <!-- HASHNODE:END -->
 
