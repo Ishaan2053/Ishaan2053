@@ -24,7 +24,7 @@
 ---
                                                                                                        
 ### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">Tools of My Trade:                                             
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-%1399964A0.svg?style=flat&logo=Python&logoColor=white) 
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-%23323330.svg?style=flat&logo=python&logoColor=red) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindCSS-%23323330.svg?style=flat&logo=tailwindCSS&logoColor=%95F7DF3F) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 
 
