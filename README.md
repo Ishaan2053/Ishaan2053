@@ -1,4 +1,4 @@
-<img src="https://gifdb.com/images/high/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.gif" width="400" height="300" align="right"/>
+<img src="https://gifdb.com/images/high/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.gif" width="370" height="300" align="right"/>
 <h1> Hello There
   <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px">
 </h1>
@@ -33,7 +33,7 @@
                                                                                                                                                         
 ### <img src="https://media.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif" width="20px"> My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=transparent&card_width=450px&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats-ishaan2053.vercel.app/api?username=Ishaan2053&theme=transparent&show_icons=true&hide_border=true&count_private=true&align)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=transparent&card_width=400px&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD)](https://git.io/streak-stats) [![Anurag's GitHub stats](https://github-readme-stats-ishaan2053.vercel.app/api?username=Ishaan2053&theme=transparent&show_icons=true&hide_border=true&count_private=true&align)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/ishaan2053)  
 
