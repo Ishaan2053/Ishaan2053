@@ -47,6 +47,7 @@
 
 ## My 'Writer's Corner':
 <!-- HASHNODE:START -->
+- [The Reason Why You Can&#39;t Understand JavaScript... Yet.](https://ishaan2053.hashnode.dev/the-reason-why-you-cant-understand-javascript-yet)
 - [So, You&#39;re Going to Become a Web Developer Too?](https://ishaan2053.hashnode.dev/so-youre-going-to-become-a-web-developer-too)
 - [Layman&#39;s Guide to Documenting Your Next Big Project](https://ishaan2053.hashnode.dev/laymans-guide-to-documenting-your-next-big-project)
 - [Introduction to Bootstrap: Stepping up from Custom CSS](https://ishaan2053.hashnode.dev/introduction-to-bootstrap-stepping-up-from-custom-css)
