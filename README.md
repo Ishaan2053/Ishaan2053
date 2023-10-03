@@ -1,7 +1,6 @@
 <img src="https://gifdb.com/images/high/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.gif" width="370" height="300" align="right"/>
-<h1> Hello There
-  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px">
-</h1>
+ <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px" align="center">
+ <h1> Hello There </h1>
   
 ### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
 - 🔥 Building catchy designs for apps of the future
