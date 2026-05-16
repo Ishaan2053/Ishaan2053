@@ -87,7 +87,7 @@ const ishaan = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=tokyonight&hide_border=true&card_width=420)](https://git.io/streak-stats)&nbsp;&nbsp;[![Ishaan's GitHub Stats](https://github-readme-stats-ishaan2053.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=tokyonight&hide_border=true&card_width=350)](https://git.io/streak-stats)&nbsp;&nbsp;[![Ishaan's GitHub Stats](https://github-readme-stats-ishaan2053.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ishaan2053&theme=tokyonight&no-frame=true&margin-w=8&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
