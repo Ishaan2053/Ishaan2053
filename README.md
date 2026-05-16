@@ -1,61 +1,111 @@
-<img src="https://gifdb.com/images/high/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.gif" width="370" height="300" align="right"/>
- <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px" align="left">
- <h1> Hello There </h1>
-  
-### <img src="https://media.giphy.com/media/fSAxCC2BDAmC9kxl0N/giphy.gif" width="30px" height="20px"> About Me:
-- 🔥 Building catchy designs for apps of the future
-- 🎯 On my way to become a Full-Stack developer!
-- 📝 Avid, enthusiastic writer in both creative and technical fields.
-- 🤤 Loves correcting documentations, Tailwind CSS... and videogames ofcourse!
-- 👨🏽‍💻 Part time Freelancer!
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ishaan%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20Design-Obsessed%20%E2%80%A2%20Builder%20of%20Things&descAlignY=62&descSize=16&width=1500"/>
+</div>
+
+<br/>
+
+<img align="right" src="https://gifdb.com/images/high/blue-typing-cat-working-mode-gzp9vt97s4mcvy26.gif" width="350" margin="10px" />
+
+### `> whoami`
+
+```ts
+const ishaan = {
+  role:     "Full-Stack Engineer",
+  loves:    ["clean UI", "great DX", "Tailwind CSS", "side projects"],
+  building: "apps that don't look like they were built in a weekend",
+  currently:"shipping features by day, breaking things by night 🌙",
+  funFact:  "like owning the stack end-to-end. Throw anything at me"
+};
+```
+
+<br clear="right"/>
 
 ---
 
-### <img align="bottom" src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> My Socials:
-<div id="badges>
-  <a href="https://www.linkedin.com/in/ishaan2053 width="15px">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>                                                                                                                           
+### <img src="https://media.giphy.com/media/in4epVtjWjc1NWI6Xl/giphy.gif" width="20px"> Find me around the web
+
+<div>
+  <a href="https://www.linkedin.com/in/ishaan2053">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
   <a href="https://Twitter.com/@Ishaan2053">
-  <img src="https://img.shields.io/badge/Ishaan2053-blue?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
-  </a>                                                                                                                         
-  </div>
-
----
-                                                                                                       
-### <img align="bottom" src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">Tools of My Trade:                                             
-| Category           | Tools|
-| ------------------ | --------------------------------------|
-| Languages          |![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)                                                                                 ![Python](https://img.shields.io/badge/Python-43853D?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| Frameworks         | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB)    ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)|
-| Databases          | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-947800?style=for-the-badge&logo=firebase&logoColor=)
-| Cloud Platforms |  ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)|
-| Hosting/Deployments   | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
-| Version Control    | ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)|
-| Payments   | ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white) |
-| CMS & Headless CMS   | ![Sanity.io](https://img.shields.io/badge/Sanity.io-ff5656?style=for-the-badge&logo=sanity&logoColor=white) ![WordPress](https://img.shields.io/badge/Wordpress-008CDD?style=for-the-badge&logo=wordpress&logoColor=white)
-| Other tools       | ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F43C37?style=for-the-badge&logo=figma&logoColor=white)  ![OpenAI](https://img.shields.io/badge/OpenAI-FF6600?style=for-the-badge&logo=openai&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
----
-                                                                                                                                                        
-### <img src="https://media.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif" width="20px"> My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=transparent&card_width=400px&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD)](https://git.io/streak-stats) 
-[![Anurag's GitHub stats](https://github-readme-stats-ishaan2053.vercel.app/api?username=Ishaan2053&theme=transparent&show_icons=true&hide_border=true&count_private=true&align)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white&labelColor=000000"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0180fcbb95041d5cb9?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-108A00?style=flat-square&logo=upwork&logoColor=white&labelColor=108A00"/>
+  </a>
+</div>
 
 ---
 
-### Linguistics:
+### <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35px"> Stack I work with
 
-[![Top Langs](https://github-readme-stats-ishaan2053.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=transparent&hide_border=true&card_width=1000px&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)   
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+
+</details>
+
+<details open>
+<summary><b>Frontend & Frameworks</b></summary>
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+
+</details>
+
+<details open>
+<summary><b>Databases, Cloud & More</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</details>
 
 ---
 
-## My 'Writer's Corner':
-<!-- HASHNODE:START -->
-- [The Reason Why You Can&#39;t Understand JavaScript... Yet.](https://ishaan2053.hashnode.dev/the-reason-why-you-cant-understand-javascript-yet)
-- [So, You&#39;re Going to Become a Web Developer Too?](https://ishaan2053.hashnode.dev/so-youre-going-to-become-a-web-developer-too)
-- [Layman&#39;s Guide to Documenting Your Next Big Project](https://ishaan2053.hashnode.dev/laymans-guide-to-documenting-your-next-big-project)
-- [Introduction to Bootstrap: Stepping up from Custom CSS](https://ishaan2053.hashnode.dev/introduction-to-bootstrap-stepping-up-from-custom-css)
-<!-- HASHNODE:END -->
+### <img src="https://media.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif" width="20px"> Stats
 
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ishaan2053&theme=tokyonight&hide_border=true&card_width=420)](https://git.io/streak-stats)&nbsp;&nbsp;[![Ishaan's GitHub Stats](https://github-readme-stats-ishaan2053.vercel.app/api?username=Ishaan2053&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ishaan2053&theme=tokyonight&no-frame=true&margin-w=8&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="24px"> Let's connect
+
+<div align="center">
+
+*I'm always happy to talk shop, collab on something interesting, or just chat about the web.*
+
+<a href="mailto:ishaan2053@gmail.com">
+  <img src="https://img.shields.io/badge/Drop%20me%20a%20mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
