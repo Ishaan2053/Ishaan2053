@@ -60,17 +60,18 @@ ship    GCP · Vercel · GitHub Actions
 ### `$ git log --oneline -5`
 
 <!-- SHIPPED:START -->
-- Latest merged pull requests appear here after the first workflow run.
+- `2026-11-07` [docs: shorter, reader-first README with screenshots](https://github.com/Ishaan2053/bugline/pull/74) · Ishaan2053/bugline
+- `2026-11-07` [docs: diagrams of the front desk and coder internals](https://github.com/Ishaan2053/bugline/pull/73) · Ishaan2053/bugline
+- `2026-11-07` [docs: screenshots and diagrams from the recorded run](https://github.com/Ishaan2053/bugline/pull/72) · Ishaan2053/bugline
+- `2026-11-06` [docs: fix review findings on images, CI concurrency and stale notes](https://github.com/Ishaan2053/bugline/pull/69) · Ishaan2053/bugline
+- `2026-11-06` [docs: README for judges, tighter and current](https://github.com/Ishaan2053/bugline/pull/68) · Ishaan2053/bugline
 <!-- SHIPPED:END -->
 
 ### `$ ls ~/writing`
 
 <!-- HASHNODE:START -->
-- [From a group message to a pull request and back: building Bugline on Switch](https://ishaan2053.hashnode.dev/from-a-group-message-to-a-pull-request-and-back-building-bugline-on-switch)
-- [Keystone: an issue-triage agent that shows its work, built on a FalkorDB graph](https://ishaan2053.hashnode.dev/keystone-an-issue-triage-agent-that-shows-its-work-built-on-a-falkordb-graph)
-- [The Reason Why You Can&#39;t Understand JavaScript... Yet.](https://ishaan2053.hashnode.dev/the-reason-why-you-cant-understand-javascript-yet)
-- [So, You&#39;re Going to Become a Web Developer Too?](https://ishaan2053.hashnode.dev/so-youre-going-to-become-a-web-developer-too)
-- [Layman&#39;s Guide to Documenting Your Next Big Project](https://ishaan2053.hashnode.dev/laymans-guide-to-documenting-your-next-big-project)
+- `2026-11-07` [From a group message to a pull request and back: building Bugline on Switch](https://ishaan2053.hashnode.dev/from-a-group-message-to-a-pull-request-and-back-building-bugline-on-switch)
+- `2026-10-18` [Keystone: an issue-triage agent that shows its work, built on a FalkorDB graph](https://ishaan2053.hashnode.dev/keystone-an-issue-triage-agent-that-shows-its-work-built-on-a-falkordb-graph)
 <!-- HASHNODE:END -->
 
 ### `$ ./contact.sh`
