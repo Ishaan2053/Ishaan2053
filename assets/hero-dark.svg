@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 384" width="840" height="384" role="img" aria-labelledby="title desc" xmlns:c2pa="http://c2pa.org/manifest">
-<title id="title">Ishaan2053: product engineer, 0 to 1 and 1 to 100</title>
-<desc id="desc">A terminal window running whoami. Role: product engineer. Focus: 0 to 1 and 1 to 100, end to end. Now: building. Stack: TypeScript, Python, Go, Next.js, FastAPI, PostgreSQL. Based in India. Top Rated on Upwork.</desc>
+<title id="title">Ishaan2053: software engineer, 0 to 1 and 1 to 100</title>
+<desc id="desc">A terminal window running whoami. Role: software engineer. Focus: 0 to 1 and 1 to 100, end to end. Now: building. Stack: TypeScript, Python, Go, Next.js, FastAPI, PostgreSQL. Based in India. Top Rated on Upwork.</desc>
 <style>
 text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:14px}
 .t{fill:#e6edf3}.d{fill:#8b949e}.a{fill:#3fb950}.b{font-weight:700}
@@ -56,7 +56,7 @@ text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberatio
 <rect class="px" x="164" y="204" width="13" height="13" rx="2" fill="#196c2e" style="animation-delay:1.75s"/>
 <rect class="px" x="180" y="204" width="13" height="13" rx="2" fill="#196c2e" style="animation-delay:1.77s"/>
 <g class="in" style="animation-delay:1.4s"><text x="260" y="116"><tspan class="a b">Ishaan2053</tspan><tspan class="d">@</tspan><tspan class="a b">github</tspan></text><rect x="260" y="125" width="143" height="1" fill="#30363d"/></g>
-<g class="in" style="animation-delay:1.52s"><text class="a b" x="260" y="154">role</text><text class="t" x="352" y="154">Product engineer</text></g>
+<g class="in" style="animation-delay:1.52s"><text class="a b" x="260" y="154">role</text><text class="t" x="352" y="154">software engineer</text></g>
 <g class="in" style="animation-delay:1.64s"><text class="a b" x="260" y="178">focus</text><text class="t" x="352" y="178">0→1 and 1→100, end to end</text></g>
 <g class="in" style="animation-delay:1.76s"><text class="a b" x="260" y="202">now</text><text class="t" x="352" y="202">building</text></g>
 <g class="in" style="animation-delay:1.88s"><text class="a b" x="260" y="226">stack</text><text class="t" x="352" y="226">TypeScript · Python · Go</text></g>
